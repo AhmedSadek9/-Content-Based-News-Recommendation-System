@@ -95,8 +95,3 @@ Follow the notebooks in sequence inside the `notebooks/` folder.
 - Top recommended articles for user preferences (see `sample_recommendations.csv`)
 - Visualizations and similarity heatmaps (optional)
 
-## 📌 Future Improvements
-
-- Incorporate implicit feedback (click history)
-- Expand to hybrid recommender by combining collaborative filtering
-- Integrate keyword extraction from user activity (e.g., browsing or search logs)
